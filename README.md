@@ -1,6 +1,6 @@
 # Music Artist Recommender
 
-An AI-powered web application that recommends new music artists based on your favorite artists. The app uses OpenAI's GPT-4 to generate personalized recommendations based on genre, era, and artist type.
+An AI-powered web application that recommends new music artists based on your preferences. The app uses OpenAI's GPT-4 to generate personalized recommendations based on genre, era, and artist type.
 
 ## Features
 
