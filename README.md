@@ -38,7 +38,7 @@ cd ..
 4. Create a `.env` file in the root directory with the following content:
 ```
 PORT=5000
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here (can find here https://aistudio.google.com/app/apikey)
 ```
 
 5. Start the development servers:
