@@ -55,23 +55,3 @@ npm run client
 
 The application will be available at `http://localhost:3000`
 
-## Usage
-
-1. Enter up to 5 artists you like, separated by commas
-2. Click "Get Recommendations"
-3. View the AI-generated recommendations with details about each artist
-
-## Tech Stack
-
-- Frontend: React.js
-- Backend: Node.js with Express
-- AI: OpenAI GPT-4
-- Styling: CSS3 with modern features
-
-## Future Improvements
-
-- Add artist images using Spotify API
-- Implement user accounts to save favorite recommendations
-- Add audio previews for recommended artists
-- Include more detailed artist information
-- Add filters for genre, era, and popularity 
