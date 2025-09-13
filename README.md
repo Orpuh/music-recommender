@@ -55,3 +55,8 @@ npm run client
 
 The application will be available at `http://localhost:3000`
 
+## Example images
+
+<img width="1914" height="1025" alt="Screenshot 2025-09-13 172630" src="https://github.com/user-attachments/assets/deb3a2b5-97de-42ad-8931-fd83d877df94" />
+
+<img width="1916" height="1029" alt="Screenshot 2025-09-13 172709" src="https://github.com/user-attachments/assets/6bf738df-93ac-4554-b2b3-a10c804f7093" />
