@@ -13,7 +13,7 @@ An AI-powered web application that recommends new music artists based on your pr
 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
-- OpenAI API key
+- Google Gemini API Key (can be created for free here https://aistudio.google.com/app/api-keys)
 
 ## Setup
 
