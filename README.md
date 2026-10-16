@@ -1,13 +1,11 @@
 # Music Artist Recommender
 
-An AI-powered web application that recommends new music artists based on your preferences. The app Google Gemini to generate personalized recommendations based on genre, era, and artist type.
+Web application that recommends new music artists based on your preferences. uses Google Gemini to generate personalized recommendations based on genre, era, and artist type.
 
 ## Features
 
 - Input up to 5 artists you like
-- Get AI-generated recommendations with detailed information
-- Modern, responsive UI with a clean design
-- Real-time recommendations using OpenAI's GPT-4
+- Get AI-generated recommendations with detailed information and links to Spotify  
 
 ## Prerequisites
 
